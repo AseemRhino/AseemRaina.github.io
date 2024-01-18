@@ -18,5 +18,5 @@ Here is my assignment1
 
 [This is my original submission](https://github.com/citydataviz/data-viz-smm635/blob/main/Lecture1/SMM635_Basic_practice.ipynb).
 
-![Crepe](/assets/img/ass1.jpg){: .mx-auto.d-block :}
+![Preview](/assets/img/ass1.png){: .mx-auto.d-block :}
 
